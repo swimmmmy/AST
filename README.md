@@ -1,4 +1,4 @@
-# 도전! AST 맛보기
+# AST
 
 ## Outline
 
